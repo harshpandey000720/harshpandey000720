@@ -169,6 +169,31 @@ The goal isn't to collect technologies.
 
 ---
 
+## 📈 DSA & Problem Solving
+
+I actively practice **Data Structures & Algorithms** alongside project development.
+
+My approach is pattern-focused rather than simply collecting solved problems:
+
+```text
+Understand the concept
+        ↓
+Identify the pattern
+        ↓
+Solve independently
+        ↓
+Analyze time & space complexity
+        ↓
+Revisit difficult problems
+        ↓
+Build pattern recognition
+```
+
+🔗 **[View my LeetCode profile](https://leetcode.com/u/HARSH_PANDEY_3110/)**
+
+---
+
+
 ## 📚 Currently Learning
 
 ```text

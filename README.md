@@ -189,9 +189,6 @@ Revisit difficult problems
 Build pattern recognition
 ```
 
-🔗 **[View my LeetCode profile](https://leetcode.com/u/HARSH_PANDEY_3110/)**
-
----
 
 
 ## 📚 Currently Learning

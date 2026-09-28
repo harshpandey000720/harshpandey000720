@@ -145,29 +145,7 @@ A systems-oriented project connecting my **Instrumentation Engineering backgroun
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
----
 
-## 📈 DSA & Problem Solving
-
-I actively practice **Data Structures & Algorithms** alongside project development.
-
-My approach is pattern-focused rather than simply collecting solved problems:
-
-```text
-Understand the concept
-        ↓
-Identify the pattern
-        ↓
-Solve independently
-        ↓
-Analyze time & space complexity
-        ↓
-Revisit difficult problems
-        ↓
-Build pattern recognition
-```
-
-🔗 **[View my LeetCode profile](https://leetcode.com/u/HARSH_PANDEY_3110/)**
 
 ---
 
